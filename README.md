@@ -4,7 +4,7 @@ I am software engineer who enjoys working in Python, Flask and Django. I think i
 
 
 - 🔭 I’m currently working on an e-voting system in Flask
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently improving on my RESTful services with Flask and Django
 <!--
 **averagewifiuser/averagewifiuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...

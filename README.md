@@ -11,14 +11,14 @@ I think it's fair to say I'm in love with backend development.
 
 <p align="left">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="MongoDb" width="25px" height="25px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="25px" height="25px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="25px" height="25px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySql" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" width="25px" height="25px">
+ <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="Flask" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript.svg" alt="Typescript" width="25px" height="25px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="Node" width="25px" height="25px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="NodeJS" width="25px" height="25px">
 </p>
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=averagewifiuser&theme=dracula&hide_border=true)<br>

@@ -4,8 +4,8 @@ I am software engineer who enjoys working in Python using Flask and Django, and 
 I think it's fair to say I'm in love with backend development.
 
 
-- 🔭 I’m currently working on an e-voting system in Flask
-- 🌱 I’m currently improving on my RESTful services with Flask and Django
+- 🔭 I’m currently working on an prep application with Django
+- 🌱 I’m currently improving on my RESTful services with Flask, Django and NodeJS
 
 <h3 align="left">Tech Stack:</h3>
 

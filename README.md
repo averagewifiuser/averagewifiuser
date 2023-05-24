@@ -1,6 +1,7 @@
 ### Hi there 👋
 Joseph Acheampong Junior :D
-I am software engineer who enjoys working in Python, Flask and Django. I think it's fair to say I'm in love with backend development.
+I am software engineer who enjoys working in Python using Flask and Django, and Javascript/TypeScript using Node. 
+I think it's fair to say I'm in love with backend development.
 
 
 - 🔭 I’m currently working on an e-voting system in Flask
@@ -15,6 +16,9 @@ I am software engineer who enjoys working in Python, Flask and Django. I think i
 <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="Flask" width="25px" height="25px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" width="25px" height="25px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/typescript.svg" alt="Typescript" width="25px" height="25px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/node.svg" alt="Node" width="25px" height="25px">
 </p>
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=averagewifiuser&theme=dracula&hide_border=true)<br>

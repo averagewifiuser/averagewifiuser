@@ -18,7 +18,7 @@ I think it's fair to say I'm in love with backend development.
 <img src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="Flask" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" width="25px" height="25px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript.svg" alt="Typescript" width="25px" height="25px">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/node.svg" alt="Node" width="25px" height="25px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="Node" width="25px" height="25px">
 </p>
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=averagewifiuser&theme=dracula&hide_border=true)<br>
